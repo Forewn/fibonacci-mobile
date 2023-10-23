@@ -2,6 +2,8 @@
 #include<iomanip>
 #include<ctype.h>
 
+//Codigo hecho por Jhosmar Suarez
+
 using namespace std;
 
 void seccion_aurea(){
